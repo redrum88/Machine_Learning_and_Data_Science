@@ -1,2 +1,2 @@
-# Machine_Learning_and_Data_Science
+# Machine Learning and Data Science
 Complete Machine Learning &amp; Data Science Bootcamp 2023
