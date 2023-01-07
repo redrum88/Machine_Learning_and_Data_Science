@@ -1,8 +1,8 @@
 # Machine Learning and Data Science
 ### Complete Machine Learning &amp; Data Science Bootcamp 2023
 ## Current Section
-#### Progress: ~50% 
-* [Assignment: SciKit-Learn Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/scikit-learn-exercises.ipynb)
+#### Progress: ~0% 
+* Project 1: __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science)__
 ## Introductions
 * [Introduction to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-pandas.ipynb)
 * [Introduction to NumPy](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-numpy.ipynb)
@@ -12,3 +12,6 @@
 * [Assignment: Pandas Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/pandas-exercise.ipynb)
 * [Assignment: NumPy Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/numpy-exercises.ipynb)
 * [Assignment: Matplotlib Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/matplotlib-exercises.ipynb)
+* [Assignment: SciKit-Learn Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/scikit-learn-exercises.ipynb)
+## Milestone Projects
+* Project 1: __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science)__
