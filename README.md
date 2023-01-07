@@ -1,7 +1,7 @@
 # Machine Learning and Data Science
 ### Complete Machine Learning &amp; Data Science Bootcamp 2023
 ## Current Section
-#### Progress: ~0% 
+#### Progress: ~50% 
 * [Assignment: SciKit-Learn Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/scikit-learn-exercises.ipynb)
 ## Introductions
 * [Introduction to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-pandas.ipynb)
