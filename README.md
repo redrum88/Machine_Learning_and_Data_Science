@@ -2,7 +2,7 @@
 
 ## Current Section
 #### In Progress
-* Milestone Project 1: Heart Disease __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/heart-disease-project/end-to-end-heart-disease-classification.ipynb)__
+* Milestone Project 2: Heart Disease __[Supervised Learning (Time Series Data)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/heart-disease-project/end-to-end-heart-disease-classification.ipynb)__
 ## Introductions
 * [Introduction to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-pandas.ipynb)
 * [Introduction to NumPy](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-numpy.ipynb)
