@@ -2,7 +2,7 @@
 
 ## Current Section
 #### In Progress
-* Milestone Project 2: Predicting the sale price of __[Bulldozers (regression)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/bulldozers-project/end-to-end-bluebook-bulldozer-price-regression.ipynb)__
+
 ## Introductions
 * [Introduction to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-pandas.ipynb)
 * [Introduction to NumPy](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-numpy.ipynb)
@@ -14,4 +14,5 @@
 * [Assignment: Matplotlib Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/matplotlib-exercises.ipynb)
 * [Assignment: SciKit-Learn Practice](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/scikit-learn-exercises.ipynb)
 ## Milestone Projects
-* Project 1: Heart Disease __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/heart-disease-project/end-to-end-heart-disease-classification.ipynb)__
+* Milestone Project 1: Heart Disease __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/heart-disease-project/end-to-end-heart-disease-classification.ipynb)__
+* Milestone Project 2: Predicting the sale price of __[Bulldozers (regression)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/bulldozers-project/end-to-end-bluebook-bulldozer-price-regression.ipynb)__
