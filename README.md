@@ -2,7 +2,7 @@
 
 ## Current Section
 #### In Progress
-* Milestone Project 2: Heart Disease __[Supervised Learning (Time Series Data)](https://github.com/redrum88/Machine_Learning_and_Data_Science)__
+* Milestone Project 2: Predicting the sale price of __[Bulldozers (regression)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/bulldozers-project/end-to-end-bluebook-bulldozer-price-regression.ipynb)__
 ## Introductions
 * [Introduction to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-pandas.ipynb)
 * [Introduction to NumPy](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/Completed/introduction-to-numpy.ipynb)
