@@ -1,8 +1,5 @@
-# Machine Learning &amp; Data Science Bootcamp 2023
+# Machine Learning &amp; Data Science Bootcamp 2023 ✅
 
-## Current Section
-#### In Progress
-* Milestone Project 3: [Dog Breed Identification](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/dog_vision.ipynb)
 ## Introductions
 * Introduction [to Pandas](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/introductions/introduction-to-pandas.ipynb)
 * Introduction [to NumPy](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/introductions/introduction-to-numpy.ipynb)
@@ -16,3 +13,4 @@
 ## Milestone Projects
 * Milestone Project 1: Heart Disease __[Supervised Learning (Classification)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/milestone-projects/heart-disease-project/end-to-end-heart-disease-classification.ipynb)__
 * Milestone Project 2: Predicting the sale price of __[Bulldozers (regression)](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/milestone-projects/bulldozers-project/end-to-end-bluebook-bulldozer-price-regression.ipynb)__
+* Milestone Project 3: [Dog Breed Identification](https://github.com/redrum88/Machine_Learning_and_Data_Science/blob/main/dog_vision.ipynb)
